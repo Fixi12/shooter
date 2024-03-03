@@ -1,2 +1,2 @@
-Acest proiect este NETERMINAT, ideea este de a avea 2 personaje principale ce impusca minioni si un inamic principal in timp ce se feresc de obstacole generate aleator, acestia pot
-impusca inamicii sau sa se fereasca din calea lor cu ajutorul miscarilor sau abilitatii de teleportare cu un cooldown de 5 secunde
+This project is UNFINISHED, the idea is to have 2 main characters shooting minions and a main enemy while avoiding randomly generated obstacles, they can
+shoot enemies or dodge out of their way with moves or teleport ability with a 5 second cooldown
